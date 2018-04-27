@@ -1,0 +1,23 @@
+{
+  "name": "Foogle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jciaramella/Foogle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jciaramella/Foogle/issues"
+  },
+  "homepage": "https://github.com/jciaramella/Foogle#readme",
+  "dependencies": {
+    "scraperjs": "^1.2.0"
+  }
+}
